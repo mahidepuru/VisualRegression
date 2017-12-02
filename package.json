@@ -1,0 +1,20 @@
+{
+  "name": "test-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "wdio-selenium-standalone-service": "0.0.8",
+    "wdio-spec-reporter": "^0.1.0",
+    "wdio-visual-regression-service": "^0.8.0",
+    "webdriver": "0.0.1",
+    "webdriverio": "^4.8.0"
+  }
+}
